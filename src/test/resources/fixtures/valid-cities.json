@@ -1,0 +1,20 @@
+[
+  {
+    "id":"0",
+    "name":"Kyiv",
+    "longLat":"50.450100,30.523400",
+    "formattedAddress":"Kiev, Ukraine, 02000"
+  },
+  {
+    "id":"0",
+    "name":"Lviv",
+    "longLat":"49.839683,24.029717",
+    "formattedAddress":"Lviv, Lviv Oblast, Ukraine"
+  },
+  {
+    "id":"0",
+    "name":"lviv",
+    "longLat":"",
+    "formattedAddress":""
+  }
+]
